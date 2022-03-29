@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [FIle sharing using P2P](https://github.com/dmotrio/p2p-sharing)
 
-- 🌱 I’m currently learning **Goolang and Svelte**
+- 🌱 I’m currently learning **React and peerjs**
 
 
