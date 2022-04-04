@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm dmotrio</h1>
-<h3 align="center">A future CS Engineer</h3>
+# Hi
+I'm dmotrio, a new version of self taught engineer.
 
-- 🔭 I’m currently working on [FIle sharing using P2P](https://github.com/dmotrio/p2p-sharing)
-
-- 🌱 I’m currently learning **React and peerjs**
-
-
+Currently attending the Computer Science and Engineering course @Unipr.
