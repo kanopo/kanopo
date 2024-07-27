@@ -14,17 +14,18 @@ I'm an aspiring software engineer with a passion for technology and innovation. 
 
 ## Publications
 - Contributed to research on AI algorithms for prenatal estimation of bone mineral density, demonstrating my interest in leveraging technology for healthcare advancements.
+- coming soon :)
 
 ## Skills
-- **Programming**: Proficient in Python, C, Java, Bash, with foundational knowledge in CC++, Java, Python, and TypeScript.
-- **Web Development**: Experience in HTML, CSS, JavaScript, PHP, MySQL, and basic ReactJS.
+- **Programming**: Proficient in Python, Java and TypeScript.
+- **Web Development and Mobile Development**: ReactJS, ReactNative and TypeScript
 - **Cloud Services**: Skilled in AWS services like EC2, RDS, S3, Lambda, and more.
-- **Tools**: Git, GitHub, LaTeX.
+- **Tools**: Git, GitHub, LaTeX, cli and terminal proficient.
+- **Linux**: As a daily operating system, proxmox enthusiast and linux server user.
 
 ## Volunteering
 - Active volunteer at Circolo ARCI APS Enigma, engaging in community service and supporting local youth.
 
 ## Let's Connect!
 Interested in collaborating or learning more about my work? Feel free to reach out!
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/dmitri-ollari-ischimji-b728061a1)
-
+- **[LinkedIn](https://www.linkedin.com/in/dmitri-ollari-ischimji-b728061a1)**
